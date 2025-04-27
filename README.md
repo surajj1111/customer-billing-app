@@ -13,6 +13,7 @@ This application allows you to add customer details, calculate billing totals, a
 - PySide6
 - mysql-connector-python
 - MySQL Database
+- Please update your MySQL password in the code before running the app.
 
 ## Setup Instructions:
 

@@ -8,7 +8,7 @@ import mysql.connector
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="billo2002",  # <-- Apna password daalo
+    password="use your password here",  #your mysql password
     database="form"
 )
 cursor = conn.cursor()
